@@ -1,8 +1,10 @@
-# 👋 Welcome, I am Leandro! Nice to meet to you!
+# 👋 Hi, be welcome! Nice to meet to you!
+
+It is always hard...but let`s present myself!
 
 ## 💼 Experienced Data/Software Engineer: Delivering Data-Driven Cloud-Based Solutions
 
-With over 8 years of experience, I specialize in designing, implementing, and optimizing cloud-based data and software platforms. My core expertise is data engineering, distributed systems, and cloud infrastructure automation.
+With over 9 years of experience, I specialize in designing, implementing, and optimizing cloud-based data and software platforms. My core areas of expertise include data engineering, distributed systems, and cloud infrastructure automation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/leandro-alves-de-oliveira/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/engleandro)
@@ -30,8 +32,12 @@ With over 8 years of experience, I specialize in designing, implementing, and op
 ## 🚀 Work Experience
 
 ### Current: Consultant
-- Designing and provisioning cloud data solutions on AWS and Azure using Terraform
+- Designing and provisioning cloud data solutions on AWS, Azure and GCP using Terraform
 - Implementing data systems, data pipelines, and serverless microservices
+
+### Falconi Consulting (Tech Consulting)
+- Designed data and software solutions on GCP and Azure
+- Developed data systems, data pipelines, and serverless microservices in many consultings
 
 ### Milestones Family Office (Finance)
 - Delivered an enterprise data platform on Azure
@@ -72,7 +78,9 @@ With over 8 years of experience, I specialize in designing, implementing, and op
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=for-the-badge&logo=databricks&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Astronomer Cosmos](https://img.shields.io/badge/Astronomer%20Cosmos-2D3748?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ### DevOps
@@ -89,6 +97,8 @@ With over 8 years of experience, I specialize in designing, implementing, and op
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+Note: Learning Rust...
 
 ### Programming Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -126,4 +136,6 @@ With over 8 years of experience, I specialize in designing, implementing, and op
 
 I'm passionate about leveraging data and cloud technologies to unlock new possibilities for organizations. If you're interested in collaboration or have any questions, feel free to reach out!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/leandro-alves-de-oliveira/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/engleandro)
 [📧 Email](mailto:engleandroalveso@gmail.com) | [🌐 Personal Website](https://engleandro.github.io/)
