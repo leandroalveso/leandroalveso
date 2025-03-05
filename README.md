@@ -136,6 +136,4 @@ Note: Learning Rust...
 
 I'm passionate about leveraging data and cloud technologies to unlock new possibilities for organizations. If you're interested in collaboration or have any questions, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/leandro-alves-de-oliveira/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/engleandro)
-[📧 Email](mailto:engleandroalveso@gmail.com) | [🌐 Personal Website](https://engleandro.github.io/)
+[📧 Email](mailto:engleandroalveso@gmail.com) | [🌐 Personal Website](https://leandroalveso.github.io/)
